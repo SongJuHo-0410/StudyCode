@@ -1,2 +1,4 @@
-String[] a = Console.ReadLine().Split();
-Console.WriteLine(int.Parse(a[0]) + int.Parse(a[1]));
+String[] s = Console.ReadLine().Split();
+int a = int.Parse(s[0]);
+int b = int.Parse(s[1]);
+Console.WriteLine(a + b);
