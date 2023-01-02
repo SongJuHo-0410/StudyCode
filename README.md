@@ -1,1 +1,1 @@
-# Study Csharp
+# Study algorithm
